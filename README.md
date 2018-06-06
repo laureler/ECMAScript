@@ -1,4 +1,4 @@
-# My Awesome Book1231233
+# ECMAScript 学习
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.312123312
+EcmaScript学习教程
 
